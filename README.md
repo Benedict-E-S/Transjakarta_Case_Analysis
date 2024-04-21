@@ -3,7 +3,8 @@
 Transjakarta merupakan sistem Bus yang melayani wilayah Jabodetabek dengan fokus utama di Jakarta. Transjakarta beroperasi sejak tahun 2004 dan telah menjadi ikon transportasi publik di ibukota Indonesia. 
 
 ## Stakeholder
-
+- Fadly Hasan sebagai Direktur Pelayanan dan Bisnis
+- Tim Pelayanan dan Bisnis
 ## Batasan Data
 Dataset dapat diakses [di sini](https://www.kaggle.com/datasets/dikisahkan/transjakarta-transportation-transaction) 
 - Dataset ini merupakan data dummy bedasarkan data asli yang didapatkan [di sini](https://ppid.transjakarta.co.id/pusat-data/data-terbuka/transjakarta-gtfs-feed) dengan pengisian baris menggunakan python [Faker](https://faker.readthedocs.io/en/master/) dan [Random](https://docs.python.org/3/library/random.html) 
