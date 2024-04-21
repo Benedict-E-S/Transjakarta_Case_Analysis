@@ -1,6 +1,14 @@
 # modul2_capstone_BES
 ## Latar Belakang
-Transjakarta merupakan sistem Bus yang melayani wilayah Jabodetabek dengan fokus utama di Jakarta. Transjakarta beroperasi sejak tahun 2004 dan telah menjadi ikon transportasi publik di ibukota Indonesia. 
+Transjakarta merupakan sistem Bus yang melayani wilayah Jabodetabek dengan fokus utama di Jakarta Transjakarta beroperasi sejak tahun 2004 dan telah menjadi ikon transportasi publik di ibukota Indonesia. 
+Adapun visi misi Transjakarta, yaitu:
+Visi: 
+- Menjadi perusahaan transportasi berkelas dunia yang menjadi pilihan utama bagi mobilitas masyarakat di DKI Jakarta
+Misi:
+- Memberikan solusi untuk mengatasi masalah kemacetan dan mobilitas masyarakat di DKI Jakarta
+- Menjadi Perusahaan transportasi publik berkelas dunia yang sehat dan berkontribusi positif bagi pemegang saham dan pemangku kepentingan
+- Membangun insan yang profesional, peduli dan penuh integritas dengan semangat pelayanan dan gotong royong yang kuat
+- menerapkan budaya kerja yang menutamakan pelayanan dan kepuasan pelanggan
 
 ## Stakeholder
 - Fadly Hasan sebagai Direktur Pelayanan dan Bisnis
