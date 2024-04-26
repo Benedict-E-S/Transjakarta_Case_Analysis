@@ -57,6 +57,16 @@ Dataset dapat diakses [di sini](https://www.kaggle.com/datasets/dikisahkan/trans
 | 22. | **payAmount** | biaya yang dibayar pelanggan |
 
 ## Kesimpulan
+Dari Analisis yang telah dilakukan, Kita bisa melakukan kesimpulan tentang pelanggan Transjakarta.
+- Kebanyakan Pelanggan menggunakan layanan Transjakarta pada hari-hari kerja (Senin-Jumat). Sebaliknya Pengunaan layanan Transjakarta oleh pelanggan jauh lebih sedikit pada akhir pekan (Sabtu & Minggu)
+- Pada hari-hari kerja Transaksi Pelanggan membentuk pola dimana sebagian besar transaksi dilakukan pada pagi hari berpuncak pada jam 6 pagi dan sore hari berpuncak pada malam hari. Pada siang hari, khususnya diantara jam 10-15 sangat sedikit transaksi terjadi.
+- Pada akhir pekan, jumlah transaksi tidak membentuk pola dan lebih merata dibandingkan dengan hari-hari kerja.
+- 49% pelanggan melakukan transaksi dengan karty pembayaran bank dki.
+- Lebih banyak pelanggan Perempuan daripada Pelanggan Laki-laki. Walaupun demikian, selisih antara perempuan dan Laki-laki adalah 3.3%, proporsi jumlah transaksi antara laki-laki dan perempuana kurang lebih seimbang. 
+- 76.2% Pelanggan Transjakarta masuk kedalam kelompok umur bekerja (18-53 tahun), walaupun demikian, terdapat 300 pelanggan umur sekolah (dibawah 17 tahun) dan 176 pelanggan umur pensiun (diatas 53 tahun).
+- Sebagian besar pelanggan umur sekolah menggunakan layanan Transjakarta untuk pergi pulang sekolah.
+- Pelanggan umur pensiun lebih memilih layanan mikrotrans, dikarenakan biaya yang gratis dan kendaraan yang mirip angkot.
+- Jumlah transaksi dimana pelanggan tidak melakukan tapOut kurang dari 5% (3.55%) sehingga tidak menjadi masalah yang signifikan.
 
 ## Dashboard
 https://public.tableau.com/app/profile/benedict.e.sutrisna/viz/Modul2CapstoneBES/DashboardTransjakarta
