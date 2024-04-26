@@ -55,3 +55,8 @@ Dataset dapat diakses [di sini](https://www.kaggle.com/datasets/dikisahkan/trans
 | 20. | **stopEndSeq** | urutan halte, 1st stop (halte pertama), 2nd stop (halte kedua), dst. Berkaitan dengan arah |
 | 21. | **tapOutTime** | tanggal dan waktu keluar |
 | 22. | **payAmount** | biaya yang dibayar pelanggan |
+
+## Kesimpulan
+
+## Dashboard
+https://public.tableau.com/app/profile/benedict.e.sutrisna/viz/Modul2CapstoneBES/DashboardTransjakarta
